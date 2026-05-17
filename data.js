@@ -109,7 +109,12 @@ const characterData = [
         tier: "S+",
         roles: ["Heal chủ lực", "Phòng không"],
         equipSlots: [
-            ["gear-1"], ["gear-2"], ["gear-3"], ["gear-4"], ["gear-5"], ["gear-6"]
+            ["f4u-vf17", "xf5u-ff", "f7f-tigercat", "f6f-hellcat", "bf-109g-cb", "la-9-cb", "f6f-hvar"],
+            ["spearfish", "br810", "wyvern", "barracuda", "saiun-t21"],
+            ["twin-76-mk37", "staag", "twin-40-haze"],
+            ["steam-cata", "frontier-medal"],
+            ["steam-cata", "homing-beacon", "tbm-vt-51", "tbm-asw", "swordfish-asw", "aviation-gas"],
+            ["hunting-bow", "scepter"]
         ],
         desc: [
             "Healer có khả năng heal cả hàng trước lẫn hàng sau, năng lực heal khủng nhất nhì game thời điểm hiện tại.",
@@ -124,7 +129,12 @@ const characterData = [
         tier: "S",
         roles: ["Heal chủ lực", "Cross-heal", "Preload"],
         equipSlots: [
-            ["gear-1"], ["gear-2"], ["gear-3"], ["gear-4"], ["gear-5"], ["gear-6"]
+            ["f4u-vf17", "xf5u-ff", "f7f-tigercat", "f6f-hellcat", "bf-109g-cb", "la-9-cb", "f6f-hvar"],
+            ["spearfish", "br810", "wyvern", "barracuda", "saiun-t21"],
+            ["twin-76-mk37", "staag", "twin-40-haze"],
+            ["steam-cata", "frontier-medal"],
+            ["steam-cata", "homing-beacon", "tbm-vt-51", "tbm-asw", "swordfish-asw", "aviation-gas"],
+            ["hunting-bow", "scepter"]
         ],
         desc: [
             "Healer có khả năng heal cả hàng trước lẫn hàng sau, trên lý thuyết là healer có lực heal mạnh nhất game.",
@@ -140,7 +150,12 @@ const characterData = [
         tier: "S",
         roles: ["Heal chủ lực", "Dmg", "Buff dmg", "Buff thủ"],
         equipSlots: [
-            ["gear-1"], ["gear-2"], ["gear-3"], ["gear-4"], ["gear-5"], ["gear-6"]
+            ["f4u-vf17", "xf5u-ff", "f7f-tigercat", "f6f-hellcat", "bf-109g-cb", "la-9-cb", "f6f-hvar"],
+            ["f4u-vbf-94", "suisei-t12a", "tenrai", "sb2c"],
+            ["spearfish", "br810", "wyvern", "barracuda", "saiun-t21"],
+            ["steam-cata", "frontier-medal"],
+            ["steam-cata", "homing-beacon", "aviation-gas"],
+            ["hunting-bow", "scepter"]
         ],
         desc: [
             "Healer chuyên heal hàng trước với hiệu suất rất tốt.",
@@ -155,12 +170,56 @@ const characterData = [
         tier: "S-",
         roles: ["Heal chủ lực", "Phòng không"],
         equipSlots: [
-            ["gear-1"], ["gear-2"], ["gear-3"], ["gear-4"], ["gear-5"], ["gear-6"]
+            ["f4u-vf17", "xf5u-ff", "f7f-tigercat", "f6f-hellcat", "bf-109g-cb", "la-9-cb", "f6f-hvar"],
+            ["spearfish", "br810", "wyvern", "barracuda", "saiun-t21"],
+            ["twin-76-mk37", "staag", "twin-40-haze"],
+            ["steam-cata", "frontier-medal"],
+            ["steam-cata", "homing-beacon", "tbm-vt-51", "tbm-asw", "swordfish-asw", "aviation-gas"],
+            ["hunting-bow", "scepter"]
         ],
         desc: [
             "Healer đơn mục tiêu có hiệu suất mạnh nhất, tuy nhiên hạn sử dụng chỉ vỏn vẹn đúng 3 lượt heal mỗi trận.",
             "Thủ khá mỏng, dễ bị đột tử nếu hàng sau bị dồn dmg liên tục."
         ]
+    },
+    {
+        name: "North Carolina",
+        link: "https://azurlane.koumakan.jp/wiki/North_Carolina",
+        image: "https://azurlane.netojuu.com/images/4/47/North_CarolinaShipyardIcon.png",
+        bgClass: "box-yellow",
+        tier: "S-",
+        roles: ["Heal chủ lực", "Dmg", "Phòng không", "Buff thủ"],
+        equipSlots: [
+            ["quad-305-skc", "triple-406-mkii", "twin-457-mka", "triple-406-m1940", "triple-406-mk7", "triple-406-mle", "triple-380-mle", "triple-406-mk6"],
+            ["quad-152", "triple-180-b1pi", "triple-152-mkxxv", "twin-150-tbtsk", "triple-180-b1p", "triple-155-t3k", "triple-155-t3"],
+            ["twin-134-mki-tf", "twin-105-skc-tf", "twin-127-mk38-tf"],
+            ["afct", "hpfcr", "t1-apc", "shs", "npov", "autoloader"],
+            ["t1-apc", "shs", "npov", "autoloader"],
+            ["north-caro-aug"]
+        ],
+        desc: [
+            "BB healer chuyên heal hàng trước, sở hữu hiệu suất heal rất tốt. Tuy nhiên, khả năng heal chỉ được kích hoạt trong môi trường địch có máy bay, đạt hiệu quả tối ưu ở W13, W15 & W16.",
+            "Khả năng gây sát thương, phòng không và buff thủ cho hàng sau khá tốt."
+        ]
+    },
+    {
+        name: "Shouhou Kai",
+        link: "https://azurlane.koumakan.jp/wiki/Shouhou",
+        image: "https://azurlane.netojuu.com/images/7/71/ShouhouKaiShipyardIcon.png",
+        bgClass: "box-purple",
+        tier: "A",
+        roles: ["Heal chủ lực", "Buff dmg"],
+        equipSlots: [
+            ["tenrai", "skyraider", "f4u-vbf-94", "suisei-t12a", "xsb3c", "sb2c"],
+            ["spearfish", "br810", "wyvern", "barracuda", "saiun-t21", "ryuusei-kai", "vit-2-mc"],
+            ["twin-76-mk37", "staag", "twin-40-haze"],
+            ["steam-cata", "frontier-medal"],
+            ["steam-cata", "homing-beacon", "evmm", "tbm-vt-51", "tbm-asw", "swordfish-asw", "aviation-gas"],
+            ["scepter", "hunting-bow"]
+        ],
+        desc: [
+            "Healer chuyên heal hàng trước với khả năng heal khá tốt, đồng thời có khả năng buff sát thương cho CV cùng team khá tốt.",
+            "Thủ khá mỏng, dễ bị đột tử nếu hàng sau bị dồn dmg liên tục."
+        ]
     }
-
 ];

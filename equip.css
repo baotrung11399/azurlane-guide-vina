@@ -14,6 +14,16 @@
             --gear-bg: var(--bg-rainbow);
         }
 
+        .triple-406-m1940 {
+            --gear-img: url('https://azurlane.netojuu.com/images/a/a4/56240.png');
+            --gear-bg: var(--bg-rainbow);
+        }
+
+        .triple-406-mk7 {
+            --gear-img: url('https://azurlane.netojuu.com/images/thumb/e/e8/14400.png/128px-14400.png');
+            --gear-bg: var(--bg-rainbow);
+        }
+
         .twin-406-mk4 {
             --gear-img: url('https://azurlane.netojuu.com/images/thumb/3/32/14520.png/60px-14520.png');
             --gear-bg: var(--bg-yellow);
@@ -126,6 +136,16 @@
             --gear-bg: var(--bg-rainbow);
         }
 
+        .f4u-vbf-94 {
+            --gear-img: url('https://azurlane.netojuu.com/images/0/0d/17280.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
+        .suisei-t12a {
+            --gear-img: url('https://azurlane.netojuu.com/images/a/a3/39160.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
         .xsb3c {
             --gear-img: url('https://azurlane.netojuu.com/images/d/da/19160.png');
             --gear-bg: var(--bg-yellow);
@@ -163,15 +183,20 @@
             --gear-bg: var(--bg-yellow);
         }
 
+        .ryuusei-kai {
+            --gear-img: url('https://azurlane.netojuu.com/images/b/b4/38260.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
+        .vit-2-mc {
+            --gear-img: url('https://azurlane.netojuu.com/images/9/94/85620.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
         /* AA-gun */
         .twin-76-mk37 {
             --gear-img: url('https://azurlane.netojuu.com/images/thumb/3/31/16480.png/90px-16480.png');
             --gear-bg: var(--bg-rainbow);
-        }
-
-        .twin-134-mki-tf {
-            --gear-img: url('https://azurlane.netojuu.com/images/thumb/f/f6/26680.png/90px-26680.png');
-            --gear-bg: var(--bg-yellow);
         }
 
         .staag {
@@ -189,7 +214,33 @@
             --gear-bg: var(--bg-yellow);
         }
 
+        /* time fuze AA-gun */
+        .twin-134-mki-tf {
+            --gear-img: url('https://azurlane.netojuu.com/images/thumb/f/f6/26680.png/90px-26680.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
+        .twin-134-mki-tf {
+            --gear-img: url('https://azurlane.netojuu.com/images/thumb/f/f6/26680.png/90px-26680.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
+        .twin-105-skc-tf {
+            --gear-img: url('https://azurlane.netojuu.com/images/f/f3/46380.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
+        .twin-127-mk38-tf {
+            --gear-img: url('https://azurlane.netojuu.com/images/9/93/16460.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
         /* Aux */
+        .north-caro-aug {
+            --gear-img: url('https://azurlane.netojuu.com/images/e/e4/Augment_13040.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
         .afct {
             --gear-img: url('https://azurlane.netojuu.com/images/c/c4/3580.png');
             --gear-bg: var(--bg-rainbow);
