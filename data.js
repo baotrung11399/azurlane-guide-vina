@@ -32,7 +32,7 @@ const characterData = [
             ["twin-76-mk37", "staag", "twin-40-haze"],
             ["steam-cata", "frontier-medal"],
             ["steam-cata", "homing-beacon", "tbm-vt-51", "tbm-asw", "swordfish-asw", "aviation-gas"],
-            ["gear-6"]
+            ["bowgun", "officers-sword"]
         ],
         desc: [
             "Healer chuyên heal hàng trước với hiệu suất cực khủng, đồng thời sở hữu cả khả năng heal hàng sau tương đối ấn tượng.",
