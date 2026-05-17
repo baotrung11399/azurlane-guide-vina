@@ -213,6 +213,11 @@
             --gear-bg: var(--bg-purple);
         }
 
+        .evmm {
+            --gear-img: url('https://azurlane.netojuu.com/images/c/c9/3940.png');
+            --gear-bg: var(--bg-purple);
+        }
+
         .aviation-gas {
             --gear-img: url('https://azurlane.netojuu.com/images/d/d4/660.png');
             --gear-bg: var(--bg-purple);

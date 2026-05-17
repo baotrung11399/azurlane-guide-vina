@@ -48,7 +48,12 @@ const characterData = [
         tier: "SS-",
         roles: ["Heal", "Dmg chủ lực", "Buff dmg", "Phòng không"],
         equipSlots: [
-            ["gear-1"], ["gear-2"], ["gear-3"], ["gear-4"], ["gear-5"], ["gear-6"]
+            ["f4u-vf17", "la-9-cb", "bf-109g-cb", "xf5u-ff", "f7f-tigercat", "f6f-hellcat", "f6f-hvar"],
+            ["spearfish", "br810", "saiun-t21", "wyvern", "barracuda"],
+            ["twin-76-mk37", "staag", "twin-40-haze"],
+            ["steam-cata", "frontier-medal"],
+            ["steam-cata", "homing-beacon", "evmm", "tbm-vt-51", "tbm-asw", "swordfish-asw", "aviation-gas"],
+            ["hunting-bow", "scepter"]
         ],
         desc: [
             "Healer có khả năng heal cả hàng trước lẫn hàng sau, đặc biệt heal hàng sau mạnh nhất nhì game thời điểm hiện tại.",
