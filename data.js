@@ -71,9 +71,9 @@ const characterData = [
         equipSlots: [
             ["f4u-vf17", "xf5u-ff", "f7f-tigercat", "f6f-hellcat", "bf-109g-cb", "la-9-cb", "f6f-hvar"],
             ["f4u-vf17", "xf5u-ff", "f7f-tigercat", "f6f-hellcat", "bf-109g-cb", "la-9-cb", "f6f-hvar"],
-            ["spearfish", "br810", "saiun-t21", "wyvern", "barracuda"],
+            ["spearfish", "br810", "wyvern", "barracuda", "saiun-t21"],
             ["steam-cata", "frontier-medal"],
-            ["steam-cata", "homing-beacon", "tbm-vt-51", "tbm-asw", "swordfish-asw", "aviation-gas"],
+            ["steam-cata", "homing-beacon", "aviation-gas"],
             ["hunting-bow", "scepter"]
         ],
         desc: [
@@ -89,7 +89,12 @@ const characterData = [
         tier: "S+",
         roles: ["Heal", "Dmg"],
         equipSlots: [
-            ["gear-1"], ["gear-2"], ["gear-3"], ["gear-4"], ["gear-5"], ["gear-6"]
+            ["xf5u-ff", "f7f-tigercat", "f6f-hellcat", "f4u-vf17", "bf-109g-cb", "la-9-cb", "f6f-hvar"],
+            ["tenrai", "skyraider", "xsb3c", "sb2c"],
+            ["spearfish", "br810", "wyvern", "barracuda", "saiun-t21"],
+            ["steam-cata", "frontier-medal"],
+            ["steam-cata", "homing-beacon", "evmm", "aviation-gas"],
+            ["hunting-bow", "scepter"]
         ],
         desc: [
             "Healer có khả năng heal cả hàng trước lẫn hàng sau, vừa multi-heal vừa heal chỉ định các tàu có %HP thấp tốt, sát thương đầu ra tốt.",

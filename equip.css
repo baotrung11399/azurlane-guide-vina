@@ -115,6 +115,28 @@
             --gear-bg: var(--bg-yellow);
         }
 
+        /* dive bomber */
+        .tenrai {
+            --gear-img: url('https://azurlane.netojuu.com/images/7/7b/39340.png');
+            --gear-bg: var(--bg-rainbow);
+        }
+
+        .skyraider {
+            --gear-img: url('https://azurlane.netojuu.com/images/7/7e/19300.png');
+            --gear-bg: var(--bg-rainbow);
+        }
+
+        .xsb3c {
+            --gear-img: url('https://azurlane.netojuu.com/images/d/da/19160.png');
+            --gear-bg: var(--bg-yellow);
+        }
+
+        .sb2c {
+            --gear-img: url('https://azurlane.netojuu.com/images/thumb/5/56/19100.png/128px-19100.png');
+            --gear-bg: var(--bg-purple);
+        }
+
+
         /* torp bomber */
         .spearfish {
             --gear-img: url('https://azurlane.netojuu.com/images/5/5f/28420.png');
