@@ -210,7 +210,7 @@ const characterData = [
         tier: "A",
         roles: ["Heal chủ lực", "Buff dmg"],
         equipSlots: [
-            ["tenrai", "skyraider", "f4u-vbf-94", "suisei-t12a", "xsb3c", "sb2c"],
+            ["tenrai", "f4u-vbf-94", "suisei-t12a", "skyraider", "xsb3c", "sb2c"],
             ["spearfish", "br810", "wyvern", "barracuda", "saiun-t21", "ryuusei-kai", "vit-2-mc"],
             ["twin-76-mk37", "staag", "twin-40-haze"],
             ["steam-cata", "frontier-medal"],
